@@ -1,6 +1,6 @@
 
 ::设置vcpkg路径
-set "vcpkg_path=E:/git_pro/vcpkg"
+set "vcpkg_path=C:/projects/op"
 echo "begin build..."
 :: 1.mkdir
 mkdir build
